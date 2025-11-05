@@ -1,3 +1,4 @@
-from edificio import Edificio
-from lugar import Lugar
-from construccion import Construccion
+from santiago import Catedral_Santiago
+
+print("Información de la Catedral de Santiago de Compostela:")
+print(Catedral_Santiago)

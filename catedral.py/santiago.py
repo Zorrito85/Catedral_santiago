@@ -15,3 +15,7 @@ Catedral_Santiago= Edificio(
     material="Granito",
     estilo="Románico, Gótico, Barroco, Plateresco, Neoclasico"
 )
+
+Catedral_Santiago.agregar_lugar(Santiago)
+Catedral_Santiago.agregar_etapa_construccion(Construccion1)
+Catedral_Santiago.agregar_etapa_construccion(Construccion2)
